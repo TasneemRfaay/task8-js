@@ -1,0 +1,23 @@
+h1 {
+  font-size: 80px;
+  font-weight: 900;
+  font-family: "Libre Franklin", sans-serif;
+  letter-spacing: -5px;
+  word-spacing: 2px;
+}
+h5 {
+  font-size: 35px;
+  font-weight: 400;
+}
+button {
+  padding: 15px 50px;
+  color: white;
+  background-color: blue;
+}
+button:hover {
+  /* color: black; */
+  background-color: green;
+}
+h3 {
+  text-overflow: wrap;
+}
