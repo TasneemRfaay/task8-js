@@ -1,3 +1,4 @@
+
 let arr = [
   {
     quote: "“Be yourself; everyone else is already taken.”",
